@@ -32,3 +32,10 @@ To answer the above questions, this tool performs the following functions:
   f.	Field Ops – This sheet calculates the field prep dates for the various planting groups outlined in the Crop Sheet.
   g.	Field Planting Schedule – This sheet provides weekly summaries of the amount of planting needed to meet the weekly harvest targets. Mostly, it is used in the Crop Sheet calculations.
 
+
+If you have any questions about how this tool functions or the code it uses, reach out to Gavin O’Leary on the Permies.com forums. 
+
+If you want to learn more about market gardening, these two books inspired much of the design and layout of this tool:
+1.	The Market Gardener – Jean-Martin Fortier
+2.	Crop Planning for Vegetable Growers - Frederic Theriault & Daniel Brisebois
+
